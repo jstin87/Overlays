@@ -10,3 +10,11 @@ After that, load up a game from one of the consoles you want an overlay for and 
 After the overlay looks correct, make sure you go back to Quick Menu -> Overrides and save your content directory or core override so it saves!
 
 Let me know if you have any suggestions or tips!
+
+
+<img src="https://github.com/user-attachments/assets/36460f67-7b17-4e92-adf8-2014c3fd40cc" width=40% height=40%>
+
+<img src="https://github.com/user-attachments/assets/6025528c-0008-4610-8ee7-b4a71662b961" width=40% height=40%>
+
+<img src="https://github.com/user-attachments/assets/340e1487-618a-4359-a39e-36fd7604bedd" width=40% height=40%>
+
