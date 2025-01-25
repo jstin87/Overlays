@@ -1,3 +1,9 @@
+# Disclaimer
+Some of these overlays utilize a grid or scanline pattern. These were used with permission by Jeltron. 
+See his work at https://github.com/Jeltr0n/Retro-Overlays and https://www.benjelter.com/
+
+Get his games at https://benjelter.itch.io/
+
 # Overlays
 Retroarch Overlays
 These are the Overlays I have made so far:
